@@ -1,0 +1,15 @@
+.artex-src
+.git
+.runtime
+.omo
+dist
+data
+keys
+pgdata
+qa
+.env
+policy
+config
+README.md
+__pycache__
+*.pyc
